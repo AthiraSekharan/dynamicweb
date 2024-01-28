@@ -77,3 +77,27 @@ background: var(--Call-to-Action, #4e061c);
 .hj{
     font-family: 'Playfair Display', serif;
 }
+
+
+
+@media(max-width:567px) {
+    .inb{
+        width: 100%;
+        margin-left:-7px;
+        
+           }
+           .b11{
+            width: 58%;
+            font-size: xx-small;
+            
+           }
+           .bb12{
+            width: 58%;
+            margin-left: 129px;
+           }
+           .full{
+            overflow-x: hidden;
+
+       }
+
+}
